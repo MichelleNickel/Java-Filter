@@ -24,8 +24,6 @@ The workspace contains six folders by default, where:
 
 Meanwhile, the compiled output files will be generated in the `img` folder by default as "**output.bmp**".
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
 ## Examples
 
 - ### Grayscale
